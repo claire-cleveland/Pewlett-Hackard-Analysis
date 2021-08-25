@@ -1,20 +1,21 @@
-# Pewlett-Hackard-Analysis
+# Pewlett Hackard Analysis: The "Silver Tsunami" 
 
-Structure, Organization, and Formatting (6 points)
-The written analysis has the following structure, organization, and formatting:
+### Overview of Analysis
+PewLett Hackard is facing a "silver Tsunami" or a wave of employees who are eligible for retirement in the near future. These employees tend to have more prestigous titles and many lead departments. Pewlett Hackard needs to figure out how mamy employees could retire, from which departments and what titles they have, as well as who is eligible to mentor younger employees to fill the gaps that will be created.
 
-There is a title, and there are multiple sections. (2 pt)
-Each section has a heading and subheading. (2 pt)
-Links to images are working and displayed correctly. (2 pt)
-Analysis (14 points)
-The written analysis has the following:
+This assignment teaches the fundamentals of creating visualizations of databases and then tables within SQL to analyze data. 
 
-Overview of the analysis:
+#### Development Enviornment
+Pg Admin - Wrote queries - Created tables - Jooined tables for analysis 
+Quick DBD - Created table visualization - Determined primary and foreign keys
 
-The purpose of the new analysis is well defined. (3 pt)
-Results:
+##### Purpose 
+The analysis was performed to determine which employees will soon be eligible to retire and from which departments. From there the data was analyzed to understand the titles of eligible employees and which employees could join a mentorship program. 
 
-There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
-Summary:
+##### Results 
+- Many employees eligible to retire have worked in multiple departments 
+- There are many employees retiring, but many are eligible to mentor younger employees
+- Titles for retiring employees tend to be more prestigous, denoting a serious knowledge gap when they leave
 
-The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
+##### Summary 
+The results support the theory that a "silver tsunami" is on its way to Pewlett Hackard, but the results also show the potential for mentoring younger emoloyees in the company. Two additional tables that would provide more insight into the data would include a comprehensive salary table for retiring employees and a table that looks at how long people have been with the comoany. Together the tables will provide additional insight into pay for replacement poitions and inofmration on pay equity at the company over time. 
